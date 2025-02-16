@@ -1,5 +1,6 @@
+
+random
 streamlit
 textblob
-emoji
-random
+emoji==2.2.0
 
